@@ -1,2 +1,2 @@
-# CHROME_help
-Documentation for CHROME
+# HSRC Projects Documentation
+1. chrome-project: Documentation for CHROME
