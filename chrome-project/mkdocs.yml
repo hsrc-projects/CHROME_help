@@ -1,0 +1,10 @@
+site_name: CHROME Platform
+nav:
+    - Home: index.md
+    - Simulate: simulation.md
+    - Prediction: prediction.md
+    - Optimization: optimization.md
+    - Scheduling: scheduling.md
+    - Visualization: visualization.md
+    - API: api.html
+theme: readthedocs
